@@ -1,1 +1,1 @@
-# Parallel_computing
+# TDT4200: Parallel Computing
